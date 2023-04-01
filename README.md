@@ -2,7 +2,7 @@
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonhp.bz/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 <br>
-
+![gif de fundo](https://user-images.githubusercontent.com/103079429/229295125-5387a4ec-8edc-4bd9-9363-ffb29c627044.gif)
 
 ![JoonhPedro GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonhPedro&show_icons=true&theme=radical)
 
