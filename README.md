@@ -1,22 +1,30 @@
-### Olá! Eu sou o João Pedro 👋 dev. iniciante 🔥
-[![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonhp.bz/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Pedro+;Front-End+developer)](https://git.io/typing-svg)
+-----
+
+![João Pedro](https://github.com/JoonhPedro/JoonhPedro/assets/103079429/533f4755-22e5-4d22-901f-9bdd241a3157)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoonhPedro&bg_color=0d117&color=00eeff&line=096d9f&point=00d5ff&area=&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <br>
-<br>
-
-![JoonhPedro GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonhPedro&show_icons=true&theme=radical)
-
-## Tecnologias que estou estudando 
-
-<div style="display: inline_block"><br>
-    <img align= "center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt"HTML5" />
-    <img align= "center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt"css3" />
-    <img align= "center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt"javascript" />
-    <img align= "center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt"node.js" />
-    <img align= "center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt"Python" />
-    <img align= "center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt"PHP" />
-    <img align= "center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt"React" />
-    <img align= "center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt"Bootstrap" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoonhPedro&show_icons=true&count_private=true&hide_border=true&title_color=00d5ff&icon_color=096d9f&text_color=c9d1d9&bg_color=0d1117" alt="JoonhPedro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoonhPedro&layout=compact&hide_border=true&title_color=00d5ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
+
+<br>
+<div align="center"> 
+<a href="https://instagram.com/jonhp.bz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=footer"/>
 
 
