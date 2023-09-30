@@ -11,8 +11,8 @@
 <br>
   <div align="center">
     
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoonhPedro&theme=dark) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoonhPedro&hide=Html&theme=dark) 
+  ![JoonhPedro GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonhPedro&theme=shadow_blue&show_icons=true) 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoonhPedro&layout=compact&theme=shadow_blue&hide_border=true" /></a>
 </div>
 
 
