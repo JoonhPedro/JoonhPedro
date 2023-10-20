@@ -12,7 +12,7 @@
   <div align="center">
     
   ![JoonhPedro GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonhPedro&theme=shadow_blue&show_icons=true) 
-  <a href="#"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jooo&layout=compact&theme=shadow_blue&hide_border=true" /></a>
+  <a href="#"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joonhpedro&layout=compact&theme=shadow_blue&hide_border=true" /></a>
 </div>
 
 
