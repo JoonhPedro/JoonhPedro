@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Pedro+;Front-End+developer)](https://git.io/typing-svg)
 -----
 
-![João Pedro](https://github.com/JoonhPedro/JoonhPedro/assets/103079429/533f4755-22e5-4d22-901f-9bdd241a3157)
+![João Pedro (1)](https://github.com/JoonhPedro/JoonhPedro/assets/103079429/b2a35783-9eb5-4258-af52-406f06cbb449)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoonhPedro&bg_color=0d117&color=00eeff&line=096d9f&point=00d5ff&area=&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
