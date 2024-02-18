@@ -109,15 +109,15 @@
 
 
 
-<a href="https://github.com/JoonhPedro?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=JoonhPedro&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/JoonhPedro?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=JoonhPedro&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="JoonhPedro stats"/></a>
+<a href="https://github.com/JoonhPedro?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=JoonhPedro&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="50%" alt="JoonhPedro "/></a>
+<a href="https://github.com/JoonhPedro?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=JoonhPedro&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="JoonhPedro stats"/></a>
 
 </p>
 
 
 <p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoonhPedro&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/JoonhPedro">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoonhPedro&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="99%" alt="activity graph">
     </a>
 
 
@@ -125,14 +125,16 @@
 
 <br>
   <div align="center">
-  <a href="#"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joonhpedro&layout=compact&theme=shadow_blue&hide_border=true" /></a>
+  <a href="#"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joonhpedro&layout=compact&theme=gotham&hide_border=true" width="30%" /></a>
 </div>
 
 
 <br>
 <div align="center">
 
-<a href="https://instagram.com/jonhp.bz" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink"  style="border-radius: 5px"> </a><a href="https://www.linkedin.com/in/joãopedrobeze/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue"  style="border-radius: 5px"></a>
+<a href="https://instagram.com/jonhp.bz" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink"  style="border-radius: 5px"> 
+</a> 
+<a href="https://www.linkedin.com/in/joãopedrobeze/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue"  style="border-radius: 5px"></a>
  </div>
 
 <br>
