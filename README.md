@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gotham&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=037ffcsize=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Pedro+;Front-End+developer)](https://git.io/typing-svg)
----
 
 <br>
 
-# 💻 My favorite tools and technologies
+# <h1 align="center" width="96">💻 My favorite tools and technologies</h1>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
