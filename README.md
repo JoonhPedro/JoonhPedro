@@ -4,7 +4,9 @@
 
 <br>
 
-# <h1 align="center" width="96">💻 My favorite tools and technologies</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000size=25&center=true&vCenter=true&width=1000&lines=💻Technologies+I+admire;Technologies+and+what+use)](https://git.io/typing-svg)
+
+---
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -23,10 +25,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
@@ -35,8 +33,12 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+        <img src="https://skillicons.dev/icons?i=linux" width="80" height="48" alt="LINUX" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
   </tr>
   <tr>
@@ -57,16 +59,16 @@
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=yarn" width="48" height="48" alt="bootstrap" />
+      <br>Yarn
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
+        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
+      <br>NPM
     </td>
   </tr>
  <tr>
@@ -131,8 +133,6 @@
 <br>
 <div align="center">
 
-<a href="https://instagram.com/jonhp.bz" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink"  style="border-radius: 5px"> 
-</a> 
 <a href="https://www.linkedin.com/in/joãopedrobeze/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue"  style="border-radius: 5px"></a>
  </div>
 
