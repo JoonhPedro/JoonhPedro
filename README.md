@@ -125,9 +125,9 @@
 
 
 <br>
-  <div align="center">
+<!--   <div align="center">
   <a href="#"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joonhpedro&layout=compact&theme=gotham&hide_border=true" width="30%" /></a>
-</div>
+</div> -->
 
 
 <br>
